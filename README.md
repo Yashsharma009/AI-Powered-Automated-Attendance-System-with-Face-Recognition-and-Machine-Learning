@@ -1,7 +1,4 @@
-Certainly! Here's a sample README file in text format for your AI-Powered Automated Attendance System with Face Recognition and Machine Learning project:
-
-```plaintext
-# AI-Powered Automated Attendance System with Face Recognition and Machine Learning
+AI-Powered Automated Attendance System with Face Recognition and Machine Learning
 
 This project is an attendance system that utilizes face recognition technology to identify and mark the attendance of individuals in a video. It can be implemented in educational institutions or organizations to automate the attendance process.
 
