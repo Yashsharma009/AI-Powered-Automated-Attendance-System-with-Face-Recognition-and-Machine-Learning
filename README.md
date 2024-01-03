@@ -52,6 +52,4 @@ This project utilizes the following libraries:
 If you have any questions or need further information about this project, please contact us at sharyash1101@gmail.com
 
 **Note**: The code for this project is not included in the README. If you want access to the code or more project details, please contact us at sharyash1101@gmail.com
-```
 
-Make sure to replace the placeholder email address with the actual contact information. This README provides a clear structure with sections for overview, installation, results, usage, acknowledgments, and contact information.
